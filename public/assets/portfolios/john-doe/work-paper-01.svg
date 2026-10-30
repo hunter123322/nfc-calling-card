@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Paper Trail book spread">
+  <rect width="1200" height="800" fill="#d7cfbe"/>
+  <rect x="100" y="120" width="1000" height="560" fill="#f6f1e6"/>
+  <line x1="600" y1="120" x2="600" y2="680" stroke="#d7cfbe" stroke-width="4"/>
+  <g fill="#3b352b">
+    <rect x="160" y="180" width="330" height="26" rx="4"/>
+    <rect x="160" y="230" width="260" height="14" rx="4"/>
+    <rect x="160" y="290" width="360" height="10" rx="4"/>
+    <rect x="160" y="316" width="340" height="10" rx="4"/>
+    <rect x="160" y="342" width="300" height="10" rx="4"/>
+    <rect x="160" y="392" width="360" height="10" rx="4"/>
+    <rect x="160" y="418" width="280" height="10" rx="4"/>
+  </g>
+  <g fill="#c2603a" opacity="0.9">
+    <rect x="650" y="180" width="260" height="170" rx="6" transform="rotate(-4 780 265)"/>
+    <rect x="730" y="400" width="220" height="140" rx="6" transform="rotate(3 840 470)"/>
+  </g>
+  <g fill="#3b352b">
+    <rect x="680" y="590" width="280" height="10" rx="4"/>
+    <rect x="680" y="616" width="200" height="10" rx="4"/>
+  </g>
+  <text x="600" y="740" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="26" letter-spacing="10" fill="#6d6455">PAPER TRAIL</text>
+</svg>

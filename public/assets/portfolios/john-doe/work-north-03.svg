@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="North Gallery wayfinding">
+  <rect width="1200" height="800" fill="#f0ebe1"/>
+  <g stroke="#26221d" stroke-width="4">
+    <line x1="180" y1="400" x2="900" y2="400"/>
+    <path d="M840 340 L910 400 L840 460" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#26221d">
+    <circle cx="180" cy="400" r="24"/>
+    <rect x="240" y="300" width="220" height="18" rx="9"/>
+    <rect x="240" y="340" width="140" height="12" rx="6"/>
+    <rect x="240" y="464" width="180" height="12" rx="6"/>
+    <text x="960" y="420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="42" font-weight="600" letter-spacing="4">MAIN</text>
+  </g>
+  <rect x="0" y="700" width="1200" height="100" fill="#c7522f"/>
+  <text x="600" y="764" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" letter-spacing="8" fill="#f0ebe1">NORTH GALLERY</text>
+</svg>

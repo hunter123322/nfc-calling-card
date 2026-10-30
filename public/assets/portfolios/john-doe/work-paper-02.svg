@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Paper Trail cover">
+  <rect width="1200" height="800" fill="#c2603a"/>
+  <rect x="360" y="100" width="480" height="600" fill="#f6f1e6" stroke="#3b352b" stroke-width="6"/>
+  <g fill="#3b352b">
+    <rect x="410" y="160" width="380" height="16" rx="4"/>
+    <rect x="410" y="196" width="300" height="16" rx="4"/>
+    <rect x="410" y="500" width="380" height="2"/>
+    <rect x="410" y="530" width="240" height="12" rx="4"/>
+    <rect x="410" y="560" width="320" height="12" rx="4"/>
+  </g>
+  <text x="600" y="400" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="76" font-weight="600" fill="#3b352b" letter-spacing="-2">PAPER</text>
+  <text x="600" y="478" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="76" font-weight="600" fill="#3b352b" letter-spacing="-2">TRAIL</text>
+  <circle cx="180" cy="660" r="80" fill="#f6f1e6" opacity="0.15"/>
+</svg>

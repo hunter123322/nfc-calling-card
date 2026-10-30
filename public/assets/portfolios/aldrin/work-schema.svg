@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Schema Notes cover">
+  <rect width="1200" height="800" fill="#f4efe6"/>
+  <rect x="0" y="0" width="1200" height="800" fill="#e9e1d3" opacity="0.4"/>
+  <g stroke="#1e1d1b" stroke-width="3" fill="none">
+    <rect x="250" y="170" width="700" height="460" rx="8"/>
+    <path d="M250 310 H950 M250 450 H950"/>
+    <path d="M540 170 V630"/>
+  </g>
+  <g fill="#1e1d1b">
+    <rect x="300" y="220" width="180" height="14" rx="7"/>
+    <rect x="600" y="220" width="120" height="14" rx="7"/>
+    <rect x="300" y="360" width="140" height="14" rx="7"/>
+    <rect x="600" y="360" width="210" height="14" rx="7"/>
+    <rect x="300" y="500" width="160" height="14" rx="7"/>
+    <rect x="600" y="500" width="100" height="14" rx="7"/>
+  </g>
+  <circle cx="330" cy="270" r="8" fill="#c2603a"/>
+  <circle cx="630" cy="270" r="8" fill="#c2603a"/>
+  <circle cx="330" cy="410" r="8" fill="#c2603a"/>
+  <circle cx="630" cy="410" r="8" fill="#c2603a"/>
+  <circle cx="330" cy="550" r="8" fill="#c2603a"/>
+  <circle cx="630" cy="550" r="8" fill="#c2603a"/>
+  <text x="600" y="720" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="600" fill="#1e1d1b" letter-spacing="6">SCHEMA NOTES</text>
+</svg>

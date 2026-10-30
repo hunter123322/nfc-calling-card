@@ -1,0 +1,18 @@
+{
+    "fullName": "James Carter",
+    "age": 34,
+    "address": "88 King Street, Manchester, United Kingdom",
+    "email": "james.carter@example.com",
+    "mobile": "+44 7700 900123",
+    "occupation": "Software Engineer",
+    "profileImageUrl": "/assets/contacts/C-00001.svg",
+    "social": {
+        "facebook": "https://www.facebook.com/example.james.carter",
+        "instagram": "https://www.instagram.com/example.james.carter",
+        "x": "https://x.com/example_james",
+        "threads": "https://www.threads.net/@example.james",
+        "linkedin": "https://www.linkedin.com/in/example-james-carter",
+        "youtube": "https://www.youtube.com/@example-james",
+        "tiktok": "https://www.tiktok.com/@example.james"
+    }
+}

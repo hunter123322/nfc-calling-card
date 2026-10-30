@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Ledger Sync interface">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101018"/>
+      <stop offset="1" stop-color="#1d2430"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="180" y="120" width="840" height="560" rx="26" fill="#151c26" stroke="#2b3648" stroke-width="2"/>
+  <g fill="#2b3648">
+    <rect x="230" y="180" width="240" height="16" rx="8"/>
+    <rect x="230" y="240" width="740" height="1"/>
+    <rect x="230" y="300" width="220" height="14" rx="7"/>
+    <rect x="560" y="300" width="120" height="14" rx="7"/>
+    <rect x="820" y="300" width="150" height="14" rx="7"/>
+    <rect x="230" y="360" width="180" height="14" rx="7"/>
+    <rect x="560" y="360" width="100" height="14" rx="7"/>
+    <rect x="820" y="360" width="130" height="14" rx="7"/>
+    <rect x="230" y="420" width="260" height="14" rx="7"/>
+    <rect x="560" y="420" width="160" height="14" rx="7"/>
+    <rect x="820" y="420" width="110" height="14" rx="7"/>
+  </g>
+  <g fill="#5cd0a5">
+    <circle cx="900" cy="183" r="8"/>
+    <rect x="230" y="490" width="130" height="34" rx="17" opacity="0.18"/>
+  </g>
+  <text x="230" y="640" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="36" font-weight="600" fill="#e6edf6" letter-spacing="-1">Ledger Sync</text>
+</svg>
