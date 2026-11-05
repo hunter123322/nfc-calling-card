@@ -12,9 +12,5 @@ export const contactManifest: ContactManifest = [
   {
     "code": "C-00002",
     "path": "/userData/contacts/C-00002.json"
-  },
-  {
-    "code": "C-00003",
-    "path": "/userData/contacts/C-00003.json"
   }
 ]
